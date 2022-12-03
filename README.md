@@ -1,6 +1,6 @@
-![about-me](me.png)
+![about-me](assets/my-name-is.png)
 
-### Hello there 👋
+## Hello there 👋
 
 [![shield](https://img.shields.io/badge/linkedin-carlosgrande-27577f)](https://www.linkedin.com/in/carlosgn/)
 [![shield](https://img.shields.io/badge/blog-carlosgrande.me-7f2589)](https://carlosgrande.me/)
@@ -8,17 +8,16 @@
 Welcome to my Github account! I'm Carlos Grande a Data Engineer, Architect, and Python enthusiast. In this account, you'll find projects, articles, and resources about data, coding, social-justice, and AI. I hope you enjoy my content and find it useful.
 
 
-### My favorite projects
-
-- :game_die: [Rubik’s Cube Model](https://carlosgrande.me/rubiks-cube-model/)
-- :hotel: [Madrid Airbnb analysis](https://carlosgrande.me/airbnb-growth-analysis-madrid/)
-- :clipboard: [My Python template](https://github.com/charlstown/py-template)
+### About me
 
 
-### My resources
 
-- :bulb: [My resources](https://carlosgrande.me/#resources-cheatsheets/)
 
+### My personal stuff
+
+- [My personal projects](https://carlosgrande.me/#my-personal-projects/)
+- [My best resources](https://carlosgrande.me/#resources-cheatsheets/)
+- [My notebooks](https://carlosgrande.me/#notebooks/)
 
 
 <!--
