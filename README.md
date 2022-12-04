@@ -26,7 +26,7 @@ Welcome to my Github account! I'm Carlos Grande a Data Engineer, Architect, and 
 ### Thank you!
 
 If you have any questions, or comments, please get in touch. You can do this by raising
-an issue against the template repository here: https://github.com/charlstown/charlstown
+an issue against the repository here: https://github.com/charlstown/charlstown
 
 Happy coding! :vulcan_salute:
 
