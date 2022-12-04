@@ -23,7 +23,7 @@ Welcome to my Github account! I'm Carlos Grande a Data Engineer, Architect, and 
 - :blue_book: [My notebooks](https://carlosgrande.me/#notebooks/)
 
 
-## Thank you!
+### Thank you!
 
 If you have any questions, concerns or comments about these guidelines, please get in touch. You can do this by raising
 an issue against the template repository here: https://github.com/charlstown/py-template
