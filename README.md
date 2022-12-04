@@ -27,8 +27,8 @@ I hope you enjoy my content and find it useful.
 
 ### Thank you!
 
-If you have any questions, or comments, please get in touch. You can do this by raising
-an issue against the repository here: https://github.com/charlstown/charlstown
+If you have any questions, or comments, please get in touch.
+You can contact me at my [LinkedIn profile](https://www.linkedin.com/in/carlosgn/). 
 
 Happy coding! :vulcan_salute:
 
