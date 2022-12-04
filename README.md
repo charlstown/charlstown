@@ -5,12 +5,14 @@
 [![shield](https://img.shields.io/badge/linkedin-carlosgrande-27577f)](https://www.linkedin.com/in/carlosgn/)
 [![shield](https://img.shields.io/badge/blog-carlosgrande.me-7f2589)](https://carlosgrande.me/)
 
-Welcome to my Github account! I'm Carlos Grande a Data Engineer, Architect, and Python enthusiast. In this account, you'll find projects, and resources about data, coding, social-justice, and AI. I hope you enjoy my content and find it useful.
+Welcome to my Github account! I'm Carlos Grande a Data Engineer, Architect, and Python enthusiast.
+In this account, you'll find projects, and resources about data, coding, social-justice, and AI.
+I hope you enjoy my content and find it useful.
 
 
 ### About me
 
-- :computer: I’m currently working as Data Architect at `Santander Group`.
+- :computer: I’m currently working as Data Architect at `Santander Global Tech`.
 - :microscope: I’m currently learning `Helm & AWS`.
 - :v: I’m looking to collaborate on coding for `social justice`. 
 - :newspaper: I publish in `carlosgrande.me`.
