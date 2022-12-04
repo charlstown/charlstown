@@ -11,7 +11,7 @@ Welcome to my Github account! I'm Carlos Grande a Data Engineer, Architect, and 
 ### About me
 
 - :computer: I’m currently working as Data Architect in `Santander Group`.
-- :microscope: I’m currently learning `helm & AWS`.
+- :microscope: I’m currently learning `Helm & AWS`.
 - :v: I’m looking to collaborate on coding for `social justice`. 
 - :newspaper: I publish in `carlosgrande.me`.
 
@@ -23,17 +23,11 @@ Welcome to my Github account! I'm Carlos Grande a Data Engineer, Architect, and 
 - :blue_book: [My notebooks](https://carlosgrande.me/#notebooks/)
 
 
-<!--
-**charlstown/charlstown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Thank you!
 
-Here are some ideas to get you started:
+If you have any questions, concerns or comments about these guidelines, please get in touch. You can do this by raising
+an issue against the template repository here: https://github.com/charlstown/py-template
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Happy coding! :vulcan_salute:
+
+-- @charlstown
