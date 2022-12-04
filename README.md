@@ -9,6 +9,10 @@ Welcome to my Github account! I'm Carlos Grande a Data Engineer, Architect, and 
 In this account, you'll find projects, and resources about data, coding, social-justice, and AI.
 I hope you enjoy my content and find it useful.
 
+</br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlstown&show_icons=true&theme=radical)
+
 
 ### About me
 
