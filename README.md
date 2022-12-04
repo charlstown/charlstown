@@ -10,14 +10,17 @@ Welcome to my Github account! I'm Carlos Grande a Data Engineer, Architect, and 
 
 ### About me
 
-
+- :computer: I’m currently working as Data Architect in `Santander Group`.
+- :microscope: I’m currently learning `helm & AWS`.
+- :v: I’m looking to collaborate on coding for `social justice`. 
+- :newspaper: I publish in `carlosgrande.me`.
 
 
 ### My personal stuff
 
-- [My personal projects](https://carlosgrande.me/#my-personal-projects/)
-- [My best resources](https://carlosgrande.me/#resources-cheatsheets/)
-- [My notebooks](https://carlosgrande.me/#notebooks/)
+- :floppy_disk: [My personal projects](https://carlosgrande.me/#my-personal-projects/)
+- :stars: [My best resources](https://carlosgrande.me/#resources-cheatsheets/)
+- :blue_book: [My notebooks](https://carlosgrande.me/#notebooks/)
 
 
 <!--
