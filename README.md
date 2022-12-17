@@ -2,8 +2,8 @@
 
 ## Hello there 👋
 
-[![shield](https://img.shields.io/badge/linkedin-carlosgrande-27577f)](https://www.linkedin.com/in/carlosgn/)
-[![shield](https://img.shields.io/badge/blog-carlosgrande.me-7f2589)](https://carlosgrande.me/)
+[![shield](https://img.shields.io/badge/linkedin-carlosgrande-27577f?style=flat&logo=linkedin&logoColor=27577f)](https://www.linkedin.com/in/carlosgn/)
+[![shield](https://img.shields.io/badge/about%20me-carlosgrande.me-7f2589?style=flat&logo=aboutdotme&logoColor=7f2589)](https://carlosgrande.me/)
 
 Welcome to my Github account! I'm Carlos Grande a Data Engineer, Architect, and Python enthusiast.
 In this account, you'll find projects, and resources about data, coding, social-justice, and AI.
