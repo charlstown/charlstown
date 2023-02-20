@@ -16,8 +16,8 @@ I hope you enjoy my content and find it useful.
 
 ### About me
 
-- :computer: I’m currently working as Data Architect at `Santander Global Tech`.
-- :microscope: I’m currently learning `Helm & AWS`.
+- :computer: I’m currently working as Data Architect at `Santander Digital Services`.
+- :microscope: I’m currently learning `Reinforcement learning & AWS`.
 - :v: I’m looking to collaborate on coding for `social justice`. 
 - :newspaper: I publish in `carlosgrande.me`.
 
