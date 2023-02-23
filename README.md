@@ -23,8 +23,8 @@ I hope you enjoy my content and find it useful.
 
 ### My favorite repos
 
-- :cookie::desktop_computer: **[Cookie Site](https://github.com/charlstown/cookie-site):** a multipurpose template to start creating a wide range of websites.
-- :cookie::snake: **[Cookie Python](https://github.com/charlstown/cookie-python):** a Python coding template for general projects (DevOps & Data Science).
+- :desktop_computer: **[Cookie Site](https://github.com/charlstown/cookie-site):** a multipurpose template to start creating a wide range of websites.
+- :snake: **[Cookie Python](https://github.com/charlstown/cookie-python):** a Python coding template for general projects (DevOps & Data Science).
 - :red_square: **[Rubiks Cube Solver]()**: Rubiks Cube python model with a UI and a render engine.
 
 
