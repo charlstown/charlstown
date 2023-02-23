@@ -21,11 +21,13 @@ I hope you enjoy my content and find it useful.
 - :v: I’m looking to collaborate on coding for `social justice`. 
 - :newspaper: I publish in `carlosgrande.me`.
 
+
 ### My favorite repos
 
 - :desktop_computer: **[Cookie Site](https://github.com/charlstown/cookie-site):** a multipurpose template to start creating a wide range of websites.
 - :snake: **[Cookie Python](https://github.com/charlstown/cookie-python):** a Python coding template for general projects (DevOps & Data Science).
 - :red_square: **[Rubiks Cube Solver]()**: Rubiks Cube python model with a UI and a render engine.
+- :keyboard:**[Coding cheat-sheets](https://github.com/charlstown/CodeCheatsheets):** My cheet-sheets for my day to day coding.
 
 
 ### My personal stuff
