@@ -9,7 +9,7 @@ Welcome to my Github account! I'm Carlos Grande a Data Engineer, Architect, and 
 In this account, you'll find projects, and resources about data, coding, social-justice, and AI.
 I hope you enjoy my content and find it useful.
 
-[![Visit my site!]](https://carlosgrande.me/)
+[![visit-my-site-button]](https://carlosgrande.me/)
 
 </br>
 
@@ -52,3 +52,8 @@ You can contact me at my [LinkedIn profile](https://www.linkedin.com/in/carlosgn
 Happy coding! :vulcan_salute:
 
 -- @charlstown
+
+
+<!---------------------------------------------------------------------------->
+
+[visit-my-site-button]: https://img.shields.io/badge/Visit_my_site!-blue?style=for-the-badge
