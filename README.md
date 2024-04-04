@@ -9,12 +9,14 @@ Welcome to my Github account! I'm Carlos Grande a Data Engineer, Architect, and 
 In this account, you'll find projects, and resources about data, coding, social-justice, and AI.
 I hope you enjoy my content and find it useful.
 
+[![Visit my site!]](https://carlosgrande.me/)
+
 </br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlstown&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### About me
+### :technologist: About me
 
 - :computer: I’m currently working as Data Architect at `Santander Digital Services`.
 - :microscope: I’m currently learning `Reinforcement learning & AWS`.
@@ -22,22 +24,27 @@ I hope you enjoy my content and find it useful.
 - :newspaper: I publish in `carlosgrande.me`.
 
 
-### My favorite repos
+### :cookie: My cookiecutter templates
 
-- :desktop_computer: **[Cookie Site](https://github.com/charlstown/cookie-site):** a multipurpose template to start creating a wide range of websites.
-- :snake: **[Cookie Python](https://github.com/charlstown/cookie-python):** a Python coding template for general projects (DevOps & Data Science).
-- :red_square: **[Rubiks Cube Solver]()**: Rubiks Cube python model with a UI and a render engine.
-- :keyboard:**[Coding cheat-sheets](https://github.com/charlstown/CodeCheatsheets):** My cheet-sheets for my day to day coding.
+- :hammer_and_wrench: __[Cookie-hub](https://github.com/charlstown/cookie-hub):__ a  cookiecutter multipurpose template for user demands and support.
+- :newspaper: __[Cookie-site](https://github.com/charlstown/cookie-site):__ a multipurpose cookiecutter template to start creating a website.
+- :snake: __[Cookie-python](https://github.com/charlstown/cookie-site):__ a Python coding template for general projects (DevOps & Data Science).
 
 
-### My personal stuff
+### :blue_heart: My favorite repos
+
+- :red_square: __[Rubiks Cube Solver]()__: Rubiks Cube python model with a UI and a render engine.
+- :keyboard:__[Coding cheat-sheets](https://github.com/charlstown/CodeCheatsheets):__ My cheet-sheets for my day to day coding.
+
+
+### :computer: My personal stuff
 
 - :floppy_disk: [My personal projects](https://carlosgrande.me/#my-personal-projects/)
 - :stars: [My best resources](https://carlosgrande.me/#resources-cheatsheets/)
 - :blue_book: [My notebooks](https://carlosgrande.me/#notebooks/)
 
 
-### Thank you!
+### Thank you! :vulcan_salute:	
 
 If you have any questions, or comments, please get in touch.
 You can contact me at my [LinkedIn profile](https://www.linkedin.com/in/carlosgn/). 
