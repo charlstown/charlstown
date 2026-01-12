@@ -13,7 +13,7 @@ I hope you enjoy my content and find it useful.
 
 </br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlstown&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlstown)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### :technologist: About me
